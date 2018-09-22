@@ -93,10 +93,8 @@ class SampleClipApi {
             "http://commondatastorage.googleapis"
                     + ".com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google"
                     + "%20Nose.mp4",
-            "https://www.youtube.com/watch?v=M7lc1UVf-VE",
-            "https://www.youtube.com/watch?v=k-LCw4CGIV8",
-            "https://www.youtube.com/watch?v=8hm9ezomDhQ",
-            "https://www.youtube.com/watch?v=QygpaIJclm4",
+            "https://youtu.be/M7lc1UVf-VE",
+            
     };
     private static final String BG_IMAGE_URLS[] = {
             "http://commondatastorage.googleapis"
